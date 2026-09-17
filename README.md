@@ -1,5 +1,7 @@
 # ACSC271 Operating Systems Labs
 
+> This coursework has been consolidated into [MakeItEzzz555/frederick-university-coursework](https://github.com/MakeItEzzz555/frederick-university-coursework). This repository is archived to preserve its history and URLs.
+
 C/C++ operating-systems labs with introductory I/O, Windows mailslots, POSIX processes and pthreads.
 
 ## Contents

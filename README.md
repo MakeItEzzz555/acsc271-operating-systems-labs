@@ -20,7 +20,7 @@ Lab-03 and Lab-04 contain independent C/C++ files. Compile each with a suitable 
 
 ## Validation
 
-Lightweight local checks: MSVC 14.44 C++ compilation. Compiled programs were not executed; interactive behavior and memory correctness remain unverified.
+The two Windows Lab-06 mailslot programs compiled with MSVC 14.44. The remaining introductory/POSIX labs were not compiled in this Windows archival check. Programs were not executed; process, thread and IPC behavior remains unvalidated.
 
 ## Notes
 

@@ -1,38 +1,27 @@
-# Dependencies and generated output
-node_modules/
-vendor/
-.next/
-dist/
-build/
-bin/
-obj/
-target/
-out/
-coverage/
-.venv/
-venv/
-__pycache__/
-.pytest_cache/
-*.class
-# IDE and machine state
+# Local editor and machine state
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+# Private local configuration and logs
+.env
+.env.*
+!.env.example
+*.log
+# Technology-specific generated/runtime files
 .vs/
-.idea/
 *.user
 *.suo
 Debug/
 Release/
 x64/
-.DS_Store
-# Private runtime data
-.env
-.env.*
-!.env.example
-students.in
-members.txt
-*.log
-# Backups/build binaries
-*.zip
-*.rar
 *.exe
-*.dll
 *.pdb
+*.obj
+*.o
+*.ilk
+*.idb
+*.pch
+*.tlog/
+build/
+trace_exm.out.txt

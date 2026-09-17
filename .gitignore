@@ -25,3 +25,10 @@ x64/
 *.tlog/
 build/
 trace_exm.out.txt
+
+# Mac archival additions
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+SimpleAuth/data/users.json
